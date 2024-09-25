@@ -24,7 +24,7 @@ I'm a versatile Software Engineer based in Calgary, Alberta, with extensive expe
 - **[Trainsheet POC](https://www.cpkcr.com/en)**: Created an electronic system for generating federal documentation for trainsheets, replacing outdated paper-based processes.
 - **[eTIM](https://www.fedex.com)**: Interfaced with customs systems across multiple countries, enhancing operational efficiency.
 - **[Cloud Self-Service Catalog](https://www.mphasis.com)**: Developed a cloud provisioning solution, showcased as a POC for potential listing on the AWS Marketplace.
-- **[Heimdall Identity Management](https://github.com)**: **WIP** Cloud native Identity management solution for Delegated Authentication using OAuth 2 and Open Id Connect. 
+- **[Heimdall Identity Management](https://github.com/HeimdallauthSecurity/heimdall-auth-backend)**: **WIP** Cloud native Identity management solution for Delegated Authentication using OAuth 2 and Open Id Connect. 
 
 ## 🎓 Education
 - **Bachelor's of Engineering** in Electronics and Telecommunication, Bharati Vidyapeeth Deemed University
