@@ -93,7 +93,7 @@ Developed a cloud provisioning interface, submitted as a POC for AWS Marketplace
 * **GitHub**: [github.com/mayanksoni1996](https://github.com/mayanksoni1996)
 * **LinkedIn**: [linkedin.com/in/mayank-soni](https://www.linkedin.com/in/mayank-soni/)
 * **Email**: [mayank.soni@mayanksoni.tech](mailto:mayank.soni@mayanksoni.tech)
-* **Phone**: +1 (587)-968-7729
+
 
 ---
 
