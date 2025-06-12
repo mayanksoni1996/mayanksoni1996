@@ -1,37 +1,100 @@
 # 👋 Hi, I'm Mayank Soni
 
-I'm a versatile Software Engineer based in Calgary, Alberta, with extensive experience in designing, developing, and maintaining full-stack applications. I specialize in Java EE, Spring Boot, Angular, and cloud deployment, with a proven track record of building scalable systems that can handle up to 2 million transactions per minute. My passion for creating high-quality software solutions is driven by a commitment to data-driven decision-making and customer-centric product development.
+I'm a versatile Software Engineer based in Vancouver, BC (originally Calgary), with a deep passion for building scalable, secure, and high-performance backend systems. I bring over 6 years of industry experience, currently contributing at **Workday Inc.**, where I help build systems that serve 10,000+ enterprise customers—including more than 50 Fortune 500 companies.
+
+I specialize in Java, Spring Boot, and cloud-native architecture, and I thrive at the intersection of **developer experience**, **security**, and **infrastructure tooling**. I’m particularly excited about solving platform-level problems, improving CI/CD workflows, and creating privacy-first systems.
+
+---
 
 ## 🔧 Skills & Technologies
-- **Backend:** Java EE, Spring Boot, Spring Framework, Java 8/17, Kafka, RabbitMQ, OAuth2, OpenID Connect, MongoDB, PostgreSQL, Oracle DB
-- **Frontend:** Angular, HTML, CSS, Tailwind, Bootstrap
-- **Cloud & DevOps:** AWS, Google Cloud, Cloud Foundry, Docker, Jenkins, Terraform
-- **Monitoring & Security:** Splunk, Elastic Stack, Grafana, OAuth2, OpenID Connect, Vault, AWS Secret Manager
+
+* **Programming:** Go, Java (8–17), Python, Shell Scripting, C (Basic)
+* **Backend & Systems:** Java EE, Spring Boot, Spring WebFlux, Reactive Programming, Kafka, RabbitMQ
+* **Frontend:** Angular, HTML, CSS, Tailwind, Bootstrap
+* **Cloud Platforms:** AWS, GCP, Azure, Cloud Foundry, Coolify (Personal Projects)
+* **Databases:** PostgreSQL, Oracle 12c/19c, MongoDB, SQL Joins, Aggregation Pipelines
+* **Security:** OAuth2, OpenID Connect, JWT, HashiCorp Vault, Dynamic Secrets, Key Rotation, OSI Network Security
+* **DevOps & CI/CD:** Docker, Jenkins, GitHub Actions, Buildpacks, Containerd (Familiar), Testcontainers
+* **Version Control & Collaboration:** Git, GitHub, Code Review, Pull Requests, GitHub Projects, OSS Contributions
+
+---
 
 ## 🚀 Professional Experience
-### Mphasis Corporation Canada | Software Development Engineer
-*August 2018 - Present | Calgary, Alberta*
-- Designed and implemented highly scalable backend systems using Java EE and Spring Boot, capable of handling up to 2 million transactions per minute.
-- Developed and maintained robust front-end applications with Angular, ensuring seamless user experiences.
-- Managed relational and non-relational databases, enhancing data handling efficiency and storage solutions.
-- Implemented authentication and access control mechanisms using OAuth2 and OpenID, strengthening system security.
-- Deployed cloud-based applications using Cloud Foundry and AWS, ensuring scalability and resilience.
-- Led initiatives to optimize system performance and reliability, resulting in improved user satisfaction and reduced operational costs.
+
+### **Workday Inc.** | *Sr. Associate Software Development Engineer*
+
+**Nov 2024 – Present | Vancouver, BC**
+
+* Built and maintained services for Workday’s Financials and Revenue products, impacting 10,000+ customers globally.
+* Developed tools to automate professional services workflows including contract and time-tracking systems.
+* Navigated and contributed to proprietary XO Java-based framework.
+* Took ownership of production systems, managing incidents, monitoring logs, and enhancing performance.
+* Supported cross-functional implementation efforts and mentored junior engineers through code reviews and onboarding.
+
+### **Mphasis Corporation** | *Software Engineer*
+
+**Aug 2018 – Nov 2024 | Calgary, AB**
+
+* Designed scalable backend systems with Java EE and Spring Boot, capable of handling 2M+ transactions per minute.
+* Built secure authentication layers using OAuth2 and OpenID Connect.
+* Led database design and optimization efforts across Oracle, PostgreSQL, and MongoDB.
+* Delivered cloud-native deployments on AWS and Cloud Foundry.
+* Implemented CI/CD pipelines using Jenkins, GitHub Actions, and Bitbucket Bamboo.
+* Maintained front-end applications using Angular and mentored peers in code reviews and best practices.
+
+---
 
 ## 🛠️ Projects
-- **[GENIUS](https://www.fedex.com)**: Developed a standalone Java application for managing customs paperwork, significantly streamlining the EU-bound shipment process.
-- **[Common Authentication Mechanism](https://schwab.com)**: Implemented a custom OAuth2 and OpenID Connect solution for a distributed system, handling 2 million transactions per minute.
-- **[Trainsheet POC](https://www.cpkcr.com/en)**: Created an electronic system for generating federal documentation for trainsheets, replacing outdated paper-based processes.
-- **[eTIM](https://www.fedex.com)**: Interfaced with customs systems across multiple countries, enhancing operational efficiency.
-- **[Cloud Self-Service Catalog](https://www.mphasis.com)**: Developed a cloud provisioning solution, showcased as a POC for potential listing on the AWS Marketplace.
-- **[Heimdall Identity Management](https://github.com/heimdall-security/auth-backend)**: **WIP** Cloud native Identity management solution for Delegated Authentication using OAuth 2 and Open Id Connect. 
+
+### 🔐 [Safe Browsing System](https://github.com/mayanksoni1996/safe-browsing)
+
+**An Open Source Alternative to Google Safe Browsing**
+
+* Built a high-performance, privacy-focused DNS resolver in **Go**, deployable on edge devices like Raspberry Pi.
+* Created a modular **Spring Boot Reactive API** to detect phishing and typosquatting domains in real-time.
+* Applied edit-distance algorithms (e.g., Levenshtein) and integrated the Tranco Top 1M list to reduce false positives.
+* Architected the system for plug-and-play detection modules and enterprise-level deployments.
+* Designed for privacy-by-default—no third-party telemetry or cloud-based threat databases.
+* Used Testcontainers for full-stack integration testing and reproducibility.
+
+### 🧠 Heimdall Identity Management
+
+**WIP:** A cloud-native delegated identity system for distributed authentication using OAuth2 and OpenID Connect.
+
+### 🧾 [GENIUS (FedEx)](https://www.fedex.com)
+
+Customs paperwork automation tool for EU-bound logistics—replacing manual workflows with digital forms.
+
+### 🔐 [Common Auth Platform (Schwab)](https://schwab.com)
+
+Custom-built centralized authentication system for high-throughput distributed apps.
+
+### 📜 [Trainsheet POC (CPKC)](https://www.cpkcr.com/en)
+
+Digitized government compliance documents for freight trains.
+
+### ☁️ [Cloud Self-Service Catalog](https://www.mphasis.com)
+
+Developed a cloud provisioning interface, submitted as a POC for AWS Marketplace listing.
+
+---
 
 ## 🎓 Education
-- **Bachelor's of Engineering** in Electronics and Telecommunication, Bharati Vidyapeeth Deemed University
-- **Diploma** in Network Security, Bharati Vidyapeeth Deemed University
+
+* **Bachelor of Engineering** in Electronics and Telecommunication
+  *Bharati Vidyapeeth Deemed University*
+* **Diploma** in Network Security
+  *Bharati Vidyapeeth Deemed University*
+
+---
 
 ## 🌐 Connect with Me
-- **LinkedIn**: [Mayank Soni](https://www.linkedin.com/in/mayank-soni/)
-- **Email**: [mayank.soni@mayanksoni.tech](mailto:mayank.soni@mayanksoni.tech)
 
-I'm always eager to collaborate on innovative projects, contribute to open-source communities, and continue growing as a developer. Let's build something amazing together!
+* **GitHub**: [github.com/mayanksoni1996](https://github.com/mayanksoni1996)
+* **LinkedIn**: [linkedin.com/in/mayank-soni](https://www.linkedin.com/in/mayank-soni/)
+* **Email**: [mayank.soni@mayanksoni.tech](mailto:mayank.soni@mayanksoni.tech)
+* **Phone**: +1 (587)-968-7729
+
+---
+
+> I’m always eager to work on challenging systems, collaborate in open source, and build tools that make engineers more productive and secure. Let’s connect and build something impactful!
