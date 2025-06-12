@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mayank Soni
 
-I'm a versatile Software Engineer based in Vancouver, BC (originally Calgary), with a deep passion for building scalable, secure, and high-performance backend systems. I bring over 6 years of industry experience, currently contributing at **Workday Inc.**, where I help build systems that serve 10,000+ enterprise customers—including more than 50 Fortune 500 companies.
+I'm a versatile Software Engineer based in Vancouver, BC, with a deep passion for building scalable, secure, and high-performance backend systems. I bring over 6 years of industry experience, currently contributing at **Workday Inc.**, where I help build systems that serve 10,000+ enterprise customers—including more than 50 Fortune 500 companies.
 
 I specialize in Java, Spring Boot, and cloud-native architecture, and I thrive at the intersection of **developer experience**, **security**, and **infrastructure tooling**. I’m particularly excited about solving platform-level problems, improving CI/CD workflows, and creating privacy-first systems.
 
@@ -8,7 +8,7 @@ I specialize in Java, Spring Boot, and cloud-native architecture, and I thrive a
 
 ## 🔧 Skills & Technologies
 
-* **Programming:** Go, Java (8–17), Python, Shell Scripting, C (Basic)
+* **Programming:** Go, Java (8–21), Python, Shell Scripting, C (Basic)
 * **Backend & Systems:** Java EE, Spring Boot, Spring WebFlux, Reactive Programming, Kafka, RabbitMQ
 * **Frontend:** Angular, HTML, CSS, Tailwind, Bootstrap
 * **Cloud Platforms:** AWS, GCP, Azure, Cloud Foundry, Coolify (Personal Projects)
@@ -52,7 +52,7 @@ I specialize in Java, Spring Boot, and cloud-native architecture, and I thrive a
 
 * Built a high-performance, privacy-focused DNS resolver in **Go**, deployable on edge devices like Raspberry Pi.
 * Created a modular **Spring Boot Reactive API** to detect phishing and typosquatting domains in real-time.
-* Applied edit-distance algorithms (e.g., Levenshtein) and integrated the Tranco Top 1M list to reduce false positives.
+* Applied edit-distance algorithms (e.g., Levenshtein) and integrated the Tranco full list to reduce false positives.
 * Architected the system for plug-and-play detection modules and enterprise-level deployments.
 * Designed for privacy-by-default—no third-party telemetry or cloud-based threat databases.
 * Used Testcontainers for full-stack integration testing and reproducibility.
