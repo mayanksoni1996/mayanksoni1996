@@ -73,7 +73,7 @@ Custom-built centralized authentication system for high-throughput distributed a
 
 Digitized government compliance documents for freight trains.
 
-### ☁️ [Cloud Self-Service Catalog](https://www.mphasis.com)
+### ☁️ [Cloud Self-Service Catalog(Mphasis)](https://www.mphasis.com)
 
 Developed a cloud provisioning interface, submitted as a POC for AWS Marketplace listing.
 
